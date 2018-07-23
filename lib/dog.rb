@@ -4,8 +4,8 @@ class Dog
     @name
   end
 
-  def name = 
-    puts @name
+  def name = (name)
+    name = @name
   end
 
 end
